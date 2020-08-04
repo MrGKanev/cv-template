@@ -42,8 +42,6 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/mrgkanev/cv-template"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/mrgkanev/cv-template">View Demo</a>
     ·
