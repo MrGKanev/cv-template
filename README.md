@@ -43,7 +43,7 @@
     YOUR_SHORT_DESCRIPTION
     <br />
     <br />
-    <a href="https://mrgkanev.github.io/cv-template/">View Demo</a>
+    <a href="https://github.com/mrgkanev/cv-template">View Demo</a>
     ·
     <a href="https://github.com/mrgkanev/cv-template/issues">Report Bug</a>
     ·
