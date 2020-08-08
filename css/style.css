@@ -119,7 +119,7 @@ a .fab {
 }
 
 .skills .column ul > li:before {
-  content: "►";
+  content: url(../img/icons/arrow.svg);
   padding-right: 0.5em;
   color: #509e98;
 }
@@ -134,7 +134,7 @@ a .fab {
 }
 
 ul.job-description li:before{
-  content: "✔";
+  content: url(../img/icons/check.svg);
   padding-right: 0.5em;
   color: #509e98;
 }
